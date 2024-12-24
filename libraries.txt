@@ -1,0 +1,6 @@
+flask
+numpy
+opencv-python
+
+sudo apt update
+sudp apt install -y libgl1-mesa-glx
