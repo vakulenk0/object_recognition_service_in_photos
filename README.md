@@ -1,1 +1,1 @@
-# object_recognition_service_in_photos
+# Код сервиса распознования объектов на фотографии, реализованный с использованием сервисов Yandex Cloud'a
